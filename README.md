@@ -12,10 +12,10 @@ Un ecosistema que traduce automáticamente los proyectos académicos y certifica
 
 ## Módulos principales (Épicas)
 
-- **Gestión de Perfiles e Historial del Candidato** — permite a los jóvenes registrar proyectos prácticos y certificaciones para construir un portafolio confiable.
-- **Verificación y Certificación de Habilidades** — valida competencias técnicas más allá del título académico o la experiencia previa.
-- **Portal de Reclutamiento y Selección Eficiente** — permite a las empresas publicar vacantes orientadas a competencias y filtrar candidatos verificados.
-- **Módulo de Analítica para Instituciones y Gobierno** — panel de métricas de inserción laboral para orientadores académicos y entes reguladores.
+- **Gestión de Perfiles e Historial del Candidato:** permite a los jóvenes registrar proyectos prácticos y certificaciones para construir un portafolio confiable.
+- **Verificación y Certificación de Habilidades:** valida competencias técnicas más allá del título académico o la experiencia previa.
+- **Portal de Reclutamiento y Selección Eficiente:** permite a las empresas publicar vacantes orientadas a competencias y filtrar candidatos verificados.
+- **Módulo de Analítica para Instituciones y Gobierno:** panel de métricas de inserción laboral para orientadores académicos y entes reguladores.
 
 ## Stakeholders
 
@@ -23,9 +23,7 @@ Jóvenes buscadores de empleo, reclutadores/empresas, instituciones educativas y
 
 ## Ecosistema de trabajo
 
-- **Jira** (clave del proyecto: `PEPPA`) — gestión de épicas, historias de usuario, tareas y sprints.
-- **GitHub** — repositorio de código, vinculado a Jira mediante convención de nombres (cada rama/commit incluye la clave del ticket, ej. `PEPPA-10`).
+- **Jira** (clave del proyecto: `PEPPA`): gestión de épicas, historias de usuario, tareas y sprints.
+- **GitHub:** repositorio de código, vinculado a Jira mediante convención de nombres (cada rama/commit incluye la clave del ticket, ej. `PEPPA-10`).
 
 ## Equipo
-
-Proyecto desarrollado para el taller de CADI: Ingeniería de Software II, Universidad de Cundinamarca — Sexto Semestre.
